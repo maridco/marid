@@ -39,4 +39,4 @@ Twitter: `@maridco`
 
 ## License
 
-Copyright 2014 Marid
+Copyright 2014 Marid. All Rights Reserved. Proprietary and Confidential.
