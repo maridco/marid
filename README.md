@@ -1,11 +1,6 @@
 Marid Backend
 =============
 
-Marid allows independent musicians to showcase their works and connect with top talent.
-
-
-
-
 ![Marid](https://raw.githubusercontent.com/maridco/marid/master/img/marid-color-xlarge.jpg)
 
 ## Independent Music Platform
