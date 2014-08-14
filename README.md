@@ -1,4 +1,4 @@
-marid-project
+Marid Backend
 =============
 
 Marid allows independent musicians to showcase their works and connect with top talent.
