@@ -42,14 +42,14 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 ## Dependencies ( This is so far exclusively for Debian Linux )
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
-3. sqlite3
+3. Sqlite3
 
 ## Installation ( Again exclusively for Debian Linux )
 1. Download ruby 2.1.2 from [here](https://www.ruby-lang.org/en/downloads/)
 2. Untar package (`tar -zxf ruby-2.1.2.tar.gz`)
 3. Follow the instructions [here.](http://stackoverflow.com/questions/18490591/how-to-install-ruby-2-on-ubuntu-without-rvm)
 Note: that I have made some deviations. Compiling also took roughly 45 minutes.
-4. Install sqlite3 (`apt-get install libsqlite3-dev` for debians)
+4. Install sqlite3 (`sudo apt-get install libsqlite3-dev` for debians)
 5. Install rails (`sudo gem install rails`)
 
 ## Run
