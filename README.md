@@ -52,6 +52,9 @@ Note: that I have made some deviations. Compiling also took roughly 45 minutes.
 4. Install sqlite3 (`apt-get install libsqlite3-dev` for debians)
 5. Install rails (`sudo gem install rails`)
 
+## Run
+1. start the server (`bundle exec rails s`)
+
 ## Contact
 
 Twitter: `@maridco`
