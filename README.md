@@ -30,6 +30,8 @@ A full list of [contributors](https://github.com/maridco/backend/graphs/contribu
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new [Pull Request](https://help.github.com/articles/using-pull-requests)
 
+** Make sure your fork is private, not public **
+
 ## Bug Tracker
 
 Found a bug? Report it [here](https://github.com/maridco/backend/issues/)!
@@ -46,15 +48,22 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 
 ## Installation 
 
-### Debian
+### Debian/Ubuntu Server
 1. Download ruby 2.1.2 from [here](https://www.ruby-lang.org/en/downloads/)
 2. Untar package (`tar -zxf ruby-2.1.2.tar.gz`)
-3. Follow the instructions [here.](http://stackoverflow.com/questions/18490591/how-to-install-ruby-2-on-ubuntu-without-rvm)
-Note: that I have made some deviations. Compiling also took roughly 45 minutes.
-4. Install sqlite3 (`sudo apt-get install libsqlite3-dev` for debians)
-5. Install rails (`sudo gem install rails`)
+3. Install Ruby:
+* Update repository cache: `apt-get -y update`
+* Install dependencies: `apt-get -y install build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev`
+* Unpack the Ruby archive you've downloaded: `tar -xvzf ruby-2.1.2.tar.gz`
+* Go to that directory: `cd ruby-2.1.2/`
+* Run the configure script: `./configure --prefix=/usr/local`
+* Run make: `make`
+* Run make install: `make install`
+4. Install sqlite3 (`apt-get install libsqlite3-dev` for Debian-based distributions)
+5. Install rails (`gem install rails`)
+(The commands above should be executed as root, either with su, sudo, or direct login if that's supported on the distribution you're using)
 
-### Mac
+### Mac OS X
 
 1. [Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
 2. In the cli `git clone https://github.com/maridco/backend.git`
