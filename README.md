@@ -11,9 +11,9 @@ For more information, please see http://marid.co
 
 ## Authors
 
-| [![Nathan Bernard](https://s.gravatar.com/avatar/764276fb0de2fba228d1a906efdcae45?s=117)](https://github.com/nb333) | [![Juan Pavlo](https://avatars0.githubusercontent.com/u/471024?v=2&s=117)](https://github.com/jpavlo) | [![John McConnell](https://avatars1.githubusercontent.com/u/1870400?v=2&s=117)](https://github.com/johnmcconnell) |
-|:---:|:---:|:---:|
-| [Nathan Bernard](https://github.com/nb333) | [Juan Pavlo](https://github.com/jpavlo) | [John McConnell](https://github.com/johnmcconnell) |
+| [![Nathan Bernard](https://s.gravatar.com/avatar/764276fb0de2fba228d1a906efdcae45?s=117)](https://github.com/nb333) | [![Juan Pavlo](https://avatars0.githubusercontent.com/u/471024?v=2&s=117)](https://github.com/jpavlo) | [![John McConnell](https://avatars1.githubusercontent.com/u/1870400?v=2&s=117)](https://github.com/johnmcconnell) | [![Mario Mjertan](https://avatars1.githubusercontent.com/u/1742806?v=2&s=117)](https://github.com/iwebhub) |
+|:---:|:---:|:---:|:---:|
+| [Nathan Bernard](https://github.com/nb333) | [Juan Pavlo](https://github.com/jpavlo) | [John McConnell](https://github.com/johnmcconnell) | [Mario Mjertan](https://github.com/iwebhub) |
 
 A full list of [contributors](https://github.com/maridco/backend/graphs/contributors) can be found on GitHub.
 
