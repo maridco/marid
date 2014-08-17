@@ -1,0 +1,48 @@
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <i class='fa fa-bars'></i>
+                    </button>
+                    <a class="navbar-brand" href="#">
+                        <img src="<%= asset_path('header-logo.png') %>" class="logo" />
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="search-input">
+                            <div class="input-group">
+                                <input type="text" class="form-control search" placeholder="Search for Artists, Videos, Songs, Lyrics, Genres ...">
+                                <a href="#"><i class="fa fa-microphone fa-2" style="margin-left: 10px;margin-top: 7px;"></i></a>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li> <a href="#login-form" data-toggle="modal" data-target="#login-form"><i class='fa fa-sign-in'></i> Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+                <div class="modal fade" id="login-form" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                        </button>
+                        <h4 class="modal-title">Login</h4>
+                    </div>
+                    <div class="modal-body">
+                        <input type="email" class="form-control" placeholder="Email address" required autofocus>
+                        <input type="password" class="form-control" placeholder="Password" required>
+                        <label class="checkbox pull-right">
+                            <input type="checkbox" value="remember-me">Remember me
+                        </label>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <a href="dashboard.html" class="btn btn-primary" type="submit">Sign in</a>
+                    </div>
+                </div>
+            </div>
+        </div>

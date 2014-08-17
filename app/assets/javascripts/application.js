@@ -11,10 +11,14 @@
 // about supported directives.
 //
 //= require jquery
+//= require filterable.pack
 //= require jquery_ujs
+//= require turbolinks
+//= require_tree .
 //= require angular
 //= require angular-animate
 //= require angular-resource
-//= require twitter/bootstrap
-//= require turbolinks
-//= require_tree .
+//= require bootstrap-sprockets
+//= require classie
+//= require modernizr.custom
+//= require nprogress

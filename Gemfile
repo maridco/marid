@@ -1,10 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'therubyracer'
-gem "less-rails"
-gem "twitter-bootstrap-rails"
-gem 'angularjs-rails', '~> 1.2.21'
-
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
@@ -43,3 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
+gem 'angularjs-rails'
+gem 'font-awesome-sass'
