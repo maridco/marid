@@ -56,9 +56,9 @@ Note: that I have made some deviations. Compiling also took roughly 45 minutes.
 
 ### Mac
 1.[Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
-2. git clone https://github.com/maridco/backend.git
-3. cd backend
-4. bundle install
+2. In the cli `git clone https://github.com/maridco/backend.git`
+3. `cd backend`
+4. `bundle install`
 
 ## Run
 Start the server  `bundle exec rails s`
