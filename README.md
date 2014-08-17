@@ -55,13 +55,14 @@ Note: that I have made some deviations. Compiling also took roughly 45 minutes.
 5. Install rails (`sudo gem install rails`)
 
 ### Mac
-1.[Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
+
+1. [Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
 2. In the cli `git clone https://github.com/maridco/backend.git`
 3. `cd backend`
 4. `bundle install`
 
 ## Run
-Start the server  `bundle exec rails s`
+Start the server `bundle exec rails s`
 
 ## Check out the site
 In your browser go to localhost:3000
