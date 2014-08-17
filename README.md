@@ -38,6 +38,35 @@ Found a bug? Report it [here](https://github.com/maridco/backend/issues/)!
 
 Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 
+
+## Dependencies ( This is so far exclusively for Debian Linux )
+1. Ruby version 2.1.2
+2. Rails version 4.1.4
+3. Sqlite3
+
+## Installation 
+
+### Debian
+1. Download ruby 2.1.2 from [here](https://www.ruby-lang.org/en/downloads/)
+2. Untar package (`tar -zxf ruby-2.1.2.tar.gz`)
+3. Follow the instructions [here.](http://stackoverflow.com/questions/18490591/how-to-install-ruby-2-on-ubuntu-without-rvm)
+Note: that I have made some deviations. Compiling also took roughly 45 minutes.
+4. Install sqlite3 (`sudo apt-get install libsqlite3-dev` for debians)
+5. Install rails (`sudo gem install rails`)
+
+### Mac
+
+1. [Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
+2. In the cli `git clone https://github.com/maridco/backend.git`
+3. `cd backend`
+4. `bundle install`
+
+## Run
+Start the server `bundle exec rails s`
+
+## Check out the site
+In your browser go to localhost:3000
+
 ## Contact
 
 Twitter: `@maridco`
