@@ -42,3 +42,5 @@ gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'angularjs-rails'
 gem 'font-awesome-sass'
+gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
