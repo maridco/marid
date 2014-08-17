@@ -78,7 +78,8 @@ In your browser go to localhost:3000
 
 ## Contact
 
-Twitter: `@maridco`
+* Twitter: `@maridco`
+* IRC: `#marid` on irc.freenode.net
 
 ## License
 
