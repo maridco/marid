@@ -132,10 +132,6 @@ a.list-group-item:focus {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border-color: transparent;
 }
-/*.root{
-  -webkit-animation: fadeIn 3s;
-  animation: fadeIn 3s;
-}*/
 .content {
  margin: 30px auto;
  opacity: 0;

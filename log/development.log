@@ -13441,3 +13441,3523 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 21:41:35
 
 
 Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 21:41:36 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:27:20 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+  Rendered pages/_nav.html.erb (2.0ms)
+Completed 200 OK in 3553ms (Views: 3538.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:27:24 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:30:09 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.5ms)
+Completed 200 OK in 3168ms (Views: 3167.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:30:13 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:30:28 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 2963ms (Views: 2962.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:30:31 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:30:32 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:31:55 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 2899ms (Views: 2898.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:31:58 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:32:19 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 2917ms (Views: 2915.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:22 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:32:23 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:32:38 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 3136ms (Views: 3133.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:32:42 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:32:57 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.3ms)
+Completed 200 OK in 2882ms (Views: 2881.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:01 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:33:02 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:33:33 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 3017ms (Views: 3016.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:36 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:33:37 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:33:52 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 2774ms (Views: 2773.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:33:56 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:35:00 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:41:43 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 2591ms (Views: 2589.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:41:47 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:41:57 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 2847ms (Views: 2846.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:00 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:42:01 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:42:05 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.5ms)
+Completed 200 OK in 33ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:06 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:42:07 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:42:20 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 3140ms (Views: 3139.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:42:24 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:46:35 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+  Rendered pages/_nav.html.erb (1.7ms)
+Completed 200 OK in 5850ms (Views: 5841.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:41 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:46:42 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:46:56 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.8ms)
+Completed 200 OK in 51ms (Views: 47.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:46:57 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:47:05 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:47:06 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:49:16 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.3ms)
+Completed 200 OK in 63ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:49:17 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:49:46 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 31ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:46 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:49:46 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:49:47 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:50:58 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 31ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:50:59 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:51:55 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:58 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:51:59 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:16 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:17 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:17 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:17 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:52:17 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.2ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 19ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:52:23 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:52:33 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (1.5ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:52:34 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:52:43 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:52:58 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (3.6ms)
+Completed 200 OK in 51ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:52:59 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:53:00 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:53:37 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 21ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:53:38 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:53:39 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:55:32 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+  Rendered pages/_nav.html.erb (1.8ms)
+Completed 200 OK in 4934ms (Views: 4925.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:55:38 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:55:39 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:13 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:56:14 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:56:47 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:56:55 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.9ms)
+Completed 200 OK in 67ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:56:56 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:56:57 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+  Rendered pages/_nav.html.erb (0.3ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:57:08 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 43ms (Views: 42.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:37 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:57:38 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:46 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:57:47 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:58:17 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered pages/_nav.html.erb (1.6ms)
+Completed 200 OK in 37ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:58:18 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:58:36 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:58:37 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 16ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:58:50 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:58:58 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.1ms)
+Completed 200 OK in 30ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:58:59 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:59:00 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered pages/_nav.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/filterable.pack.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/classie.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/nprogress.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
+
+
+Started GET "/assets/header-logo.png" for 127.0.0.1 at 2014-08-17 22:59:09 -0500
