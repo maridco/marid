@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.1.2'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -42,5 +43,8 @@ gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'angularjs-rails'
 gem 'font-awesome-sass'
+<<<<<<< HEAD
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
+=======
+>>>>>>> 224d60477378d9453929e2d8d5d8c6b476c7e028
