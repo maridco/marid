@@ -45,7 +45,12 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
 3. Sqlite3
+<<<<<<< HEAD
 4. Cassandra
+||||||| merged common ancestors
+=======
+4. Nodejs
+>>>>>>> master
 
 ## Installation 
 
@@ -73,7 +78,7 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 
 1. [Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
 2. In the cli `git clone https://github.com/maridco/backend.git`
-3. Install casandta
+3. Install casandra
 * Via [homebrew](http://brew.sh/)
   * install cassndra: `brew install cassandra12` (Java 7 required)
   * add cassndra to launchagents:  `ln -sfv /usr/local/opt/cassandra12/*.plist ~/Library/LaunchAgents`
