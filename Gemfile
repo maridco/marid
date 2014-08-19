@@ -6,6 +6,11 @@ ruby '2.1.2'
 gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+
+# Use CASSANDRA as the database for Active Record
+# Please see gem documentation: https://github.com/cequel/cequel/blob/master/README.md
+gem 'cequel'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
