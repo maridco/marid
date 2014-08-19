@@ -44,6 +44,13 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Use Devise for authentication
+# Documentation: https://github.com/plataformatec/devise/blob/master/README.md
+gem 'devise'
+# Connect devise with CASSANDRA
+# Documentation: https://github.com/cequel/cequel-devise/blob/master/README.md
+gem 'cequel-devise'
+
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'angularjs-rails'
