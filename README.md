@@ -45,12 +45,8 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
 3. Sqlite3
-<<<<<<< HEAD
 4. Cassandra
-||||||| merged common ancestors
-=======
-4. Nodejs
->>>>>>> master
+5. Nodejs
 
 ## Installation 
 
