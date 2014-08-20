@@ -17,11 +17,6 @@ For more information, please see http://marid.co
 
 A full list of [contributors](https://github.com/maridco/backend/graphs/contributors) can be found on GitHub.
 
-
-
-
-
-
 ## Contributing
 
 1. [Fork it](https://help.github.com/articles/fork-a-repo)
@@ -30,9 +25,9 @@ A full list of [contributors](https://github.com/maridco/backend/graphs/contribu
 4. Push to the branch (`git push origin develop/my-new-feature`)
 5. Create new [Pull Request](https://help.github.com/articles/using-pull-requests)
 
-**You can use [gitflow](https://github.com/nvie/gitflow) for branch management
+**You can use [git-flow](https://github.com/nvie/gitflow) for branch management.**
 
-** Make sure your fork is private, not public **
+**Please make sure your fork is private, not public.**
 
 ## Bug Tracker
 
@@ -46,16 +41,16 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 ## Dependencies ( This is so far exclusively for Debian Linux )
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
-3. Sqlite3
+3. SQLite3
 4. Cassandra
-5. Nodejs
+5. Node.js
 
 ## Installation 
 
-**We are currently add CASSANDRA driver to this project. Every help with updating those instructions is wellcomed**
+**We are currently adding Cassandra driver to Marid. Helping update the instructions is welcome.**
 
 #### Debian/Ubuntu Server
-1. Download ruby 2.1.2 from [here](https://www.ruby-lang.org/en/downloads/)
+1. Download Ruby 2.1.2 from [here](https://www.ruby-lang.org/en/downloads/)
 2. Untar package (`tar -zxf ruby-2.1.2.tar.gz`)
 3. Install Ruby:
 * Update repository cache: `apt-get -y update`
@@ -65,36 +60,36 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 * Run the configure script: `./configure --prefix=/usr/local`
 * Run make: `make`
 * Run make install: `make install`
-4. Install sqlite3 (`apt-get install libsqlite3-dev` for Debian-based distributions)
-5. Install rails (`gem install rails`)
+4. Install SQLite3 (`apt-get install libsqlite3-dev` for Debian-based distributions)
+5. Install Rails (`gem install rails`)
 (The commands above should be executed as root, either with su, sudo, or direct login if that's supported on the distribution you're using)
-***cassandra instalation is missing here***
+***Cassandra installation is missing here***
 
-#### PLEASE UPDATE CASSANDRA INSTALATION
+#### PLEASE UPDATE CASSANDRA INSTALLATION
 
 ### Mac OS X
 
 1. [Follow the guide](https://gorails.com/setup/osx/10.9-mavericks)
 2. In the cli `git clone https://github.com/maridco/backend.git`
-3. Install casandra
+3. Install Cassandra
 * Via [homebrew](http://brew.sh/)
-  * install cassndra: `brew install cassandra12` (Java 7 required)
-  * add cassndra to launchagents:  `ln -sfv /usr/local/opt/cassandra12/*.plist ~/Library/LaunchAgents`
+  * install Cassandra: `brew install cassandra12` (Java 7 required)
+  * add Cassandra to launchagents:  `ln -sfv /usr/local/opt/cassandra12/*.plist ~/Library/LaunchAgents`
 4. `cd backend`
-5. Start Cassnadra server: `launchctl load ~/Library/LaunchAgents/homebrew.mxcl.cassandra12.plist`
+5. Start Cassandra server: `launchctl load ~/Library/LaunchAgents/homebrew.mxcl.cassandra12.plist`
 
-### Setup rails app (every platform)
-1. Configure SQLITE3 db
+### Setup Rails app (every platform)
+1. Configure SQLite3 db
 * copy file `config/database.yml.example`
 * rename new file to `config/database.yml`
-* configure SQLITE3 within this file (or leave it on default settings)
-2. Configure CASSNADRA db
+* configure SQLite3 within this file (or leave it on default settings)
+2. Configure Cassandra db
 * copy file `config/cequel.yml.example`
 * rename new file to `config/cequel.yml`
-* configure CASSANDRA within this file (or leave it on default settings)
+* configure Cassandra within this file (or leave it on default settings)
 3. Install dependencies vie Boundler: `bundle install`
-4. Setup SQLITE database (not necessary for now): `rake db:setup`
-5. Create and migrate CASSANDRA db
+4. Setup SQLite database (not necessary for now): `rake db:setup`
+5. Create and migrate Cassandra db
 * rake `cequel:keyspace:create`
 * migrate `rake cequel:migrate`
 
@@ -104,11 +99,10 @@ Start the server `rails server`
 ## Check out the site
 In your browser go to localhost:3000
 
-
-## Working with CASSANDRA within RAILS
+## Working with Cassandra within Rails
 **Please see [driver documentaiton](https://github.com/cequel/cequel)**
 
-Models for Cassandra **are not** using ActiveRecord! There is also no support for migrations in noSQL.
+Models for Cassandra **are not** using ActiveRecord! There is also no support for migrations in NoSQL.
 Database schema is synchronized with model by running `rake cequel:migrate`.
 Unlike in ActiveRecord, models declare their properties inline.
 
