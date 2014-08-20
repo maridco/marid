@@ -73,20 +73,20 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 2. In the cli `git clone https://github.com/maridco/backend.git`
 3. Install Cassandra
 * Via [homebrew](http://brew.sh/)
-  * install Cassandra: `brew install cassandra12` (Java 7 required)
-  * add Cassandra to launchagents:  `ln -sfv /usr/local/opt/cassandra12/*.plist ~/Library/LaunchAgents`
+  * Install Cassandra: `brew install cassandra12` (Java 7 required)
+  * Add Cassandra to launchagents:  `ln -sfv /usr/local/opt/cassandra12/*.plist ~/Library/LaunchAgents`
 4. `cd backend`
 5. Start Cassandra server: `launchctl load ~/Library/LaunchAgents/homebrew.mxcl.cassandra12.plist`
 
 ### Setup Rails app (every platform)
 1. Configure SQLite3 db
-* copy file `config/database.yml.example`
-* rename new file to `config/database.yml`
-* configure SQLite3 within this file (or leave it on default settings)
+* Copy file `config/database.yml.example`
+* Rename new file to `config/database.yml`
+* Configure SQLite3 within this file (or leave it on default settings)
 2. Configure Cassandra db
-* copy file `config/cequel.yml.example`
-* rename new file to `config/cequel.yml`
-* configure Cassandra within this file (or leave it on default settings)
+* Copy file `config/cequel.yml.example`
+* Rename new file to `config/cequel.yml`
+* Configure Cassandra within this file (or leave it on default settings)
 3. Install dependencies vie Boundler: `bundle install`
 4. Setup SQLite database (not necessary for now): `rake db:setup`
 5. Create and migrate Cassandra db
