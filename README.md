@@ -108,8 +108,9 @@ Unlike in ActiveRecord, models declare their properties inline.
 
 ## Contact
 
-* Twitter: `@maridco`
-* IRC: `#marid` on irc.freenode.net
+Twitter: `@maridco`
+
+IRC: `#marid` on irc.freenode.net
 
 ## License
 
