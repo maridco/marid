@@ -38,7 +38,7 @@ Found a bug? Report it [here](https://github.com/maridco/backend/issues/)!
 Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 
 
-## Dependencies ( This is so far exclusively for Debian Linux )
+## Dependencies
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
 3. SQLite3
@@ -79,17 +79,17 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 5. Start Cassandra server: `launchctl load ~/Library/LaunchAgents/homebrew.mxcl.cassandra12.plist`
 
 ### Setup Rails app (every platform)
-1. Configure SQLite3 db
+1. Configure SQLite3 database
 * Copy file `config/database.yml.example`
 * Rename new file to `config/database.yml`
 * Configure SQLite3 within this file (or leave it on default settings)
-2. Configure Cassandra db
+2. Configure Cassandra database
 * Copy file `config/cequel.yml.example`
 * Rename new file to `config/cequel.yml`
 * Configure Cassandra within this file (or leave it on default settings)
 3. Install dependencies vie Boundler: `bundle install`
 4. Setup SQLite database (not necessary for now): `rake db:setup`
-5. Create and migrate Cassandra db
+5. Create and migrate Cassandra database
 * rake `cequel:keyspace:create`
 * migrate `rake cequel:migrate`
 
