@@ -1,0 +1,2 @@
+module LogupsHelper
+end

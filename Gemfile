@@ -45,3 +45,5 @@ gem 'angularjs-rails'
 gem 'font-awesome-sass'
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
+
+gem 'cequel'

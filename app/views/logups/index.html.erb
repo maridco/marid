@@ -1,0 +1,27 @@
+<h1>Listing logups</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Fullname</th>
+      <th>Email</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @logups.each do |logup| %>
+      <tr>
+        <td><%= logup.fullname %></td>
+        <td><%= logup.email %></td>
+        <td><%= link_to 'Show', logup %></td>
+        <td><%= link_to 'Edit', edit_logup_path(logup) %></td>
+        <td><%= link_to 'Destroy', logup, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Logup', new_logup_path %>
