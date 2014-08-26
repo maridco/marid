@@ -46,4 +46,16 @@ gem 'font-awesome-sass'
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 
-gem 'cequel'
+# support for twitter, facebook, google, soundcloud, live and yahoo login  
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-twitter'
+gem 'omniauth-facebook'
+gem "omniauth-google-oauth2"
+gem 'omniauth-soundcloud', '~> 1.0.0'
+gem 'omniauth-live_connect'
+gem 'omniauth-yahoo', '~> 0.0.5'
+
+# support for pg
+gem 'pg'
+
