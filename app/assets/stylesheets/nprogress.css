@@ -48,7 +48,6 @@
   border-top-color: #fffffff;
   border-left-color: #ffffff;
   border-radius: 50%;
-  visibility: hidden; /* enable this if you want to see the spinner at top right corner */
 
   -webkit-animation: nprogress-spinner 400ms linear infinite;
           animation: nprogress-spinner 400ms linear infinite;
