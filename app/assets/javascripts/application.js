@@ -13,7 +13,6 @@
 //= require jquery
 //= require filterable.pack
 //= require jquery_ujs
-//= require turbolinks
 //= require_tree .
 //= require angular
 //= require angular-animate

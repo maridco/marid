@@ -4,7 +4,7 @@ Devise.setup do |config|
   # The secret key used by Devise. Devise uses this key to generate
   # random tokens. Changing this key will render invalid all existing
   # confirmation, reset password and unlock tokens in the database.
-  # config.secret_key = '4d9fc663aa33f741a62f658f69e13304f0108cf46ed4befd024b38b8493467c294d3d58930b2fd8162d4d39e886c0eb258640a7fc980c02ac64b96a171bc246d'
+  # config.secret_key = '4abfb7b3fceb339e537983717a366e532655015c48fbe12f80fc0c887deba42d74d335b9d52195c3865c92976b4a7315115a4ca750b5886daac5317889824493'
 
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,
@@ -97,7 +97,7 @@ Devise.setup do |config|
   config.stretches = Rails.env.test? ? 1 : 10
 
   # Setup a pepper to generate the encrypted password.
-  # config.pepper = '66194cb17724fb040886fb8fafe7547a6cb275f59bcc408705ca99d5c745adcef159cc2327068acd15d96a0ddb0c2bd3b6e9f880759423e3a446a6e26afa29b6'
+  # config.pepper = '88a69b828c27bf0e84d92aef669e52e08f96622d0566b4dc40265ece257cb32bb38994857acafe5fd24f4a813c7d35e8829bd839ec8eb1e8c507ebe4fee75b4f'
 
   # ==> Configuration for :confirmable
   # A period that the user is allowed to access the website even without
@@ -128,9 +128,6 @@ Devise.setup do |config|
   # The time the user will be remembered without asking for credentials again.
   # config.remember_for = 2.weeks
 
-  # Invalidates all the remember me tokens when the user signs out.
-  config.expire_all_remember_me_on_sign_out = true
-
   # If true, extends the user's remember period when remembered via cookie.
   # config.extend_remember_period = false
 
@@ -145,7 +142,7 @@ Devise.setup do |config|
   # Email regex used to validate email formats. It simply asserts that
   # one (and only one) @ exists in the given string. This is mainly
   # to give user feedback and not to assert the e-mail validity.
-  # config.email_regexp = /\A[^@]+@[^@]+\z/
+  config.email_regexp = /\A[^@]+@[^@]+\z/
 
   # ==> Configuration for :timeoutable
   # The time you want to timeout the user session without activity. After this

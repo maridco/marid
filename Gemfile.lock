@@ -35,6 +35,13 @@ GEM
     bootstrap-sass (3.2.0.1)
       sass (~> 3.2)
     builder (3.2.2)
+    cequel (1.4.1)
+      activemodel (>= 3.1, < 5.0)
+      cql-rb (>= 1.2, < 3.0)
+    cequel-devise (1.0.0)
+      cequel (~> 1.0)
+      devise (~> 3.2)
+      orm_adapter-cequel (~> 1.0)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
@@ -42,7 +49,9 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.7.1)
-    devise (3.3.0)
+    cql-rb (2.0.3)
+      ione (~> 1)
+    devise (3.2.4)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 3.2.6, < 5)
@@ -57,6 +66,7 @@ GEM
     hashie (3.3.0)
     hike (1.2.3)
     i18n (0.6.11)
+    ione (1.1.3)
     jbuilder (2.1.3)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
@@ -72,41 +82,10 @@ GEM
     mime-types (1.25.1)
     minitest (5.4.0)
     multi_json (1.10.1)
-    multi_xml (0.5.5)
-    multipart-post (2.0.0)
-    oauth (0.4.7)
-    oauth2 (0.9.4)
-      faraday (>= 0.8, < 0.10)
-      jwt (~> 1.0)
-      multi_json (~> 1.3)
-      multi_xml (~> 0.5)
-      rack (~> 1.2)
-    omniauth (1.2.2)
-      hashie (>= 1.2, < 4)
-      rack (~> 1.0)
-    omniauth-facebook (1.6.0)
-      omniauth-oauth2 (~> 1.1)
-    omniauth-google-oauth2 (0.2.5)
-      omniauth (> 1.0)
-      omniauth-oauth2 (~> 1.1)
-    omniauth-live_connect (0.0.1)
-    omniauth-oauth (1.0.1)
-      oauth
-      omniauth (~> 1.0)
-    omniauth-oauth2 (1.1.2)
-      faraday (>= 0.8, < 0.10)
-      multi_json (~> 1.3)
-      oauth2 (~> 0.9.3)
-      omniauth (~> 1.2)
-    omniauth-soundcloud (1.0.1)
-      omniauth-oauth2 (~> 1.1.0)
-    omniauth-twitter (1.0.1)
-      multi_json (~> 1.3)
-      omniauth-oauth (~> 1.0)
-    omniauth-yahoo (0.0.5)
-      omniauth-oauth (~> 1.0)
     orm_adapter (0.5.0)
-    pg (0.17.1)
+    orm_adapter-cequel (1.0.1)
+      cequel (~> 1.0)
+      orm_adapter (~> 0.5)
     polyglot (0.3.5)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -159,8 +138,6 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
-    turbolinks (2.2.2)
-      coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (2.5.3)
@@ -176,6 +153,8 @@ DEPENDENCIES
   angularjs-rails
   autoprefixer-rails
   bootstrap-sass (~> 3.2.0)
+  cequel
+  cequel-devise
   coffee-rails (~> 4.0.0)
   devise
   execjs
@@ -196,5 +175,4 @@ DEPENDENCIES
   spring
   sqlite3
   therubyracer
-  turbolinks
   uglifier (>= 1.3.0)
