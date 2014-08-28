@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Mar&#9834;d &trade;</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="shortcut icon" href="css/images/marid_logo.png" type="image/png" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap_marid.css">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="css/nprogress.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap_marid_media.css">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+  </head>
+
+  <body class="main">
+    <div class="root">
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <i class='fa fa-bars'></i>
+                    </button>
+                    <a class="navbar-brand" href="#">
+                        <img src="css/images/header-logo.png" class="logo" />
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="search-input">
+                            <div class="input-group">
+                                <input type="text" class="form-control search" placeholder="Search for Artists, Videos, Songs, Lyrics, Genres ...">
+                                <a href="#"><i class="fa fa-microphone fa-2" style="margin-left: 10px;margin-top: 7px;"></i></a>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li> <a href="#login-form" data-toggle="modal" data-target="#login-form"><i class='fa fa-sign-in'></i> Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="login-form" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                        </button>
+                        <h4 class="modal-title">Login</h4>
+                    </div>
+                    <div class="modal-body">
+                        <input type="email" class="form-control" placeholder="Email address" required autofocus>
+                        <input type="password" class="form-control" placeholder="Password" required>
+                        <label class="checkbox pull-right">
+                            <input type="checkbox" value="remember-me">Remember me
+                        </label>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <a href="dashboard.html" class="btn btn-primary" type="submit">Sign in</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main-content-full">
+            <ul id="portfolio-filter" class="navbar-collapse collapse">
+                <li><a href="#all" title="">all</a>
+                </li>
+                <li><a href="#artists" title="" rel="artists">artists</a>
+                </li>
+                <li><a href="#engineers" title="" rel="engineers">engineers</a>
+                </li>
+                <li><a href="#mixers" title="" rel="mixers">mixers</a>
+                </li>
+                <li><a href="#songwriters" title="" rel="songwriters">songwriters</a>
+                </li>
+            </ul>
+            <ul id="portfolio-list">
+                <li style="overflow: hidden; clear: both; height: 0px; position: relative; float: none; display: block;"></li>
+                <li style="display: block;" class=" engineers ">
+                       <a href="#" title="">
+                         <iframe title="YouTube video player" src="http://www.youtube.com/embed/wjzoG-c92CY?wmode=transparent" seamless height="100%" height="100%"></iframe>
+                        </a>
+                        <p>Katy Perry - Roar (Official)</p>
+                    </li>
+                    <li style="display: block;" class=" engineers ">
+                        <a href="#" title="">
+                         <iframe title="YouTube video player" src="http://www.youtube.com/embed/wjzoG-c92CY?wmode=transparent" seamless height="100%"></iframe>
+                        </a>
+                        <p>Katy Perry - Roar (Official)</p>
+                    </li>
+                    <li class="business artists">
+                        <a href="#" title="">
+                         <iframe title="YouTube video player" src="http://www.youtube.com/embed/EAyzpLGBI1E?wmode=transparent" seamless height="100%"></iframe>
+                        </a>
+                        <p>Katy Perry - Roar (Official)</p>
+                    </li>
+                    <li class=" songwriters artists  video">
+                      <a href="#" title="">
+                         <iframe title="YouTube video player" src="http://www.youtube.com/embed/wrNTOo4KH8c?wmode=transparent" seamless height="100%"></iframe>
+                        </a>
+                        <p>Katy Perry - Roar (Official)</p>
+                    </li>
+                    <li class="mixers artists ">
+                       <a href="#" title="">
+                         <iframe title="YouTube video player" src="http://www.youtube.com/embed/CevxZvSJLk8?wmode=transparent" seamless height="100%"></iframe>
+                        </a>
+                        <p>Katy Perry - Roar (Official)</p>
+                    </li>
+                    <li class="songwriters engineers artists ">
+                       <a href="#" title="">
+                         <iframe title="YouTube video player" src="http://www.youtube.com/embed/5jlI4uzZGjU?wmode=transparent" seamless height="100%"></iframe>
+                        </a>
+                        <p>Katy Perry - Roar (Official)</p>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/nprogress.js"></script>
+<script type="text/javascript" src="js/filterable.pack.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('head').append('<link href="css/images/marid_logo.png" rel="shortcut icon" type="image/x-icon" />');
+        NProgress.start();
+        NProgress.configure({
+            ease: 'ease',
+            speed: 500
+        });
+        setInterval(function() {
+            NProgress.done()
+        }, 1500);
+
+        $('#portfolio-filter > li').on('click', function() {
+            NProgress.start();
+            NProgress.configure({
+                ease: 'ease',
+                speed: 500
+            });
+        });
+        $('portfolio-list').filterable({
+            useHash: true,
+            animationSpeed: 1000,
+            show: {
+                width: 'show',
+                opacity: 'show'
+            },
+            hide: {
+                width: 'hide',
+                opacity: 'hide'
+            },
+            useTags: true,
+            tagSelector: '#portfolio-filter a',
+            selectedTagClass: 'current',
+            allTag: 'all'
+        });
+    });
+</script>
+
+</html>
