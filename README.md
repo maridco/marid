@@ -1,8 +1,6 @@
 Marid Backend
 =============
 
-![Marid](https://raw.githubusercontent.com/maridco/marid/master/img/marid-color-xlarge.jpg)
-
 ## Independent Music Platform
 
 Marid is a music platform that beautifully showcases the works of independent artists.
