@@ -45,7 +45,7 @@ gem 'angularjs-rails'
 gem 'font-awesome-sass'
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
-
+gem 'hashie', '~> 3.3.1'
 # support for twitter, facebook, google, soundcloud, live and yahoo login  
 gem 'devise'
 gem 'omniauth'
