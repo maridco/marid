@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  path: MyString
+  size: 1
+  type: 
+  price: 
+  counter: 
+
+two:
+  path: MyString
+  size: 1
+  type: 
+  price: 
+  counter: 
