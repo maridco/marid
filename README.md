@@ -15,9 +15,9 @@ For more information, please see http://marid.co
 :---:|:---:|:---:|:---:|:---:
 [Nathan Bernard](https://github.com/nb333) | [Juan Pavlo](https://github.com/jpavlo) | [John McConnell](https://github.com/johnmcconnell) | [Mario Mjertan](https://github.com/iwebhub) | [Marek Fajkus](https://github.com/turboMaCk)
 
-[![Marcin Spoczynski](https://avatars0.githubusercontent.com/u/2578718?v=2&s=117)](https://github.com/sandlbn) |
+[![Marcin Spoczynski](https://avatars0.githubusercontent.com/u/2578718?v=2&s=117)](https://github.com/sandlbn) | [![Nitish Anand](https://avatars3.githubusercontent.com/u/1907440?v=2&s=117)](https://github.com/nitish1099) |
 :---:|:---:|:---:|:---:|:---:|
-[Marcin Spoczynski](https://github.com/sandlbn) |
+[Marcin Spoczynski](https://github.com/sandlbn) | [Nitish Anand](https://github.com/nitish1099) |
 
 A full list of [contributors](https://github.com/maridco/backend/graphs/contributors) can be found on GitHub.
 
@@ -46,7 +46,7 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
 3. SQLite3
-4. Postgresql
+4. PostgreSQL
 5. Node.js
 
 ## Installation 
@@ -58,9 +58,9 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 2. Contribute 
 
 ### Setup Rails app (every platform)
-1. Configure Postgresql database
+1. Configure PostgreSQL database
 2. Install dependencies vie Boundler: `bundle install`
-3. Setup Postgresql `rake db:setup`
+3. Setup PostgreSQL `rake db:setup`
 
 ## Run
 Start the server `bundle exec rails s`
