@@ -46,11 +46,7 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 1. Ruby version 2.1.2
 2. Rails version 4.1.4
 3. SQLite3
-<<<<<<< HEAD
 4. PostgreSQL
-=======
-4. Postgresql
->>>>>>> develop
 5. Node.js
 
 ## Installation 
@@ -62,15 +58,9 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 2. Contribute 
 
 ### Setup Rails app (every platform)
-<<<<<<< HEAD
 1. Configure PostgreSQL database
 2. Install dependencies via Bundler: `bundle install`
 3. Setup PostgreSQL `rake db:setup`
-=======
-1. Configure Postgresql database
-2. Install dependencies vie Boundler: `bundle install`
-3. Setup Postgresql `rake db:setup`
->>>>>>> develop
 
 ## Run
 Start the server `bundle exec rails s`
