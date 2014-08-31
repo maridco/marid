@@ -59,7 +59,7 @@ Have an idea? Add it [here](https://github.com/maridco/backend/issues/)!
 
 ### Setup Rails app (every platform)
 1. Configure PostgreSQL database
-2. Install dependencies vie Boundler: `bundle install`
+2. Install dependencies via Bundler: `bundle install`
 3. Setup PostgreSQL `rake db:setup`
 
 ## Run
