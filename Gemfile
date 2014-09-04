@@ -57,6 +57,11 @@ gem 'omniauth-soundcloud', '~> 1.0.0'
 gem 'omniauth-live_connect'
 gem 'omniauth-yahoo', '~> 0.0.5'
 gem "pundit"
+gem "rspec"
+gem "rspec-core"
+gem "rspec-rails"
+gem "guard-rspec"
+gem 'spring-commands-rspec'
 
 # support for pg
 gem 'pg'
