@@ -18,8 +18,4 @@
 //= require angular-animate
 //= require angular-resource
 //= require bootstrap-sprockets
-//= require classie
-//= require modernizr.custom
-//= require nprogress
-
 

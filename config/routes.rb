@@ -1,9 +1,8 @@
 Rails.application.routes.draw do
-  get 'pages/home'
+
 
   devise_for :users, :controllers => { omniauth_callbacks: 'omniauth_callbacks' }
-  root 'pages#home'
-  get 'pages/dashboard'
+
   match '/users/:id/finish_signup' => 'users#finish_signup', via: [:get, :patch], :as => :finish_signup
 
   # The priority is based upon order of creation: first created -> highest priority.
