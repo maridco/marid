@@ -30,3 +30,6 @@ pickle-email-*.html
 /vendor/assets/bower_components
 *.bowerrc
 bower.json
+
+# ignore local cassandra/cequel config
+config/cequel.yml
