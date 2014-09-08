@@ -1,7 +1,7 @@
 Marid Backend
 =============
 
-![](https://raw.githubusercontent.com/maridco/marid/master/app/assets/images/header-logo.png?token=5732914__eyJzY29wZSI6IlJhd0Jsb2I6bWFyaWRjby9tYXJpZC9tYXN0ZXIvYXBwL2Fzc2V0cy9pbWFnZXMvaGVhZGVyLWxvZ28ucG5nIiwiZXhwaXJlcyI6MTQwOTgwODYwMH0%3D--bfc78a84eeefba95185fb2b6cb2b92848bc68bd3)
+![](https://raw.githubusercontent.com/maridco/marid/master/app/assets/images/Marid_Logo_web.png?token=5732914__eyJzY29wZSI6IlJhd0Jsb2I6bWFyaWRjby9tYXJpZC9tYXN0ZXIvYXBwL2Fzc2V0cy9pbWFnZXMvTWFyaWRfTG9nb193ZWIucG5nIiwiZXhwaXJlcyI6MTQxMDc2NDMwN30%3D--7e89fade8d826686ef610de4a0bc76f7485f738d)
 
 ## Independent Music Platform
 
