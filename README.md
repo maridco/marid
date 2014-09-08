@@ -26,7 +26,7 @@ A full list of [contributors](https://github.com/maridco/backend/graphs/contribu
 4. Push to the branch (`git push origin develop/my-new-feature`)
 5. Create new [Pull Request](https://help.github.com/articles/using-pull-requests)
 
-**You can use [git-flow](https://github.com/nvie/gitflow) for branch management.**
+**Please use [git-flow](https://github.com/nvie/gitflow) for branch management.**
 
 **Please make sure your fork is private, not public.**
 
